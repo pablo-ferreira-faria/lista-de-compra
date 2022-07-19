@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="label_shopping_list">"lista de compras "</string>
+    <string name="label_description_new_item">listagem de item</string>
+    <string name="label_item">item</string>
+    <string name="label_quantidade">quantidade</string>
+    <string name="label_adicionar">adicionar</string>
+    <string name="label_show_success">item cadastrado com sucesso</string>
+</resources>
